@@ -1,4 +1,4 @@
-## SeoYeong Kim 👋
+## Seoyeong Kim 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeon801&count_bg=%236476E3&title_bg=%238EA2E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
