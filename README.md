@@ -1,4 +1,4 @@
-## Suyeon Kim 👋
+## SeoYeong Kim 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyeon801&count_bg=%236476E3&title_bg=%238EA2E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -45,5 +45,5 @@
 
 <div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon801&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=suyeon801&theme=swift&&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0yeong&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=s0yeong&theme=swift&&show_icons=true">
